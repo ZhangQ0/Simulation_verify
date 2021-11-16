@@ -1,0 +1,6 @@
+/home/zhangq/桌面/C++/Simulation_modified5/build/CMakeFiles/a.out.dir
+/home/zhangq/桌面/C++/Simulation_modified5/build/CMakeFiles/edit_cache.dir
+/home/zhangq/桌面/C++/Simulation_modified5/build/CMakeFiles/rebuild_cache.dir
+/home/zhangq/桌面/C++/Simulation_modified5/build/lib/CMakeFiles/refer.dir
+/home/zhangq/桌面/C++/Simulation_modified5/build/lib/CMakeFiles/edit_cache.dir
+/home/zhangq/桌面/C++/Simulation_modified5/build/lib/CMakeFiles/rebuild_cache.dir

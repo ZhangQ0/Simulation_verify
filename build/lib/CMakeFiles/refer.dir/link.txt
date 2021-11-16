@@ -1,0 +1,2 @@
+/usr/bin/ar qc librefer.a CMakeFiles/refer.dir/source/function.cpp.o CMakeFiles/refer.dir/source/beam.cpp.o
+/usr/bin/ranlib librefer.a
